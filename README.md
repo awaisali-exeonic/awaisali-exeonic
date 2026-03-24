@@ -55,46 +55,6 @@ const awais = {
 
 console.log("Let's build something amazing together! 🚀");
 ```
-
----
-
-<br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-![Awais Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais6javaid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais6javaid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-<br/>
-
-<h2 align="center">🔥 Streak Stats</h2>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=awais6javaid&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<br/>
-
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=awais6javaid&theme=radical&hide_border=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <br/>
 
 <h2 align="center">📫 Connect With Me</h2>
@@ -116,24 +76,6 @@ console.log("Let's build something amazing together! 🚀");
 
 </div>
 
----
-
-<br/>
-
-<h2 align="center">🤝 Support</h2>
-
-<div align="center">
-
-If you like what I do, consider supporting me!
-
-<a href="https://www.buymeacoffee.com/awaisali">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
-</div>
-
----
-
 <br/>
 
 <div align="center">
@@ -151,10 +93,6 @@ If you like what I do, consider supporting me!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awais6javaid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://hit.yher.xyz/?color=00D9FF&background=0d1117" alt="Hits" />
 </p>
 
 ---
